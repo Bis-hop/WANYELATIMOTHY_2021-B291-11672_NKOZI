@@ -1,0 +1,119 @@
+.main
+{
+    height: 60px;
+background-color: red;
+
+display: flex;
+justify-content: space-evenly;
+text-decoration: none;
+
+
+}
+.li{
+    
+    list-style-type:none;
+    text-size-adjust: 10px;
+      font-family: Arial, Helvetica, sans-serif
+      
+}
+.i{
+   
+    
+}
+.E{
+display: flex;
+text-align: left;
+justify-content: space-between;
+background-color: gray;
+}
+.gate{
+    min-height: 500px;
+    background-size: 100% auto;
+    background-image: url(umu\ gate.jpeg);
+
+}
+.EE{
+    width: 450px;
+    height: 80px;
+    
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.LL{
+    width: 450px;
+    height: 80px;
+   
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.AA{
+    width: 450px;
+    height: 80px;
+    
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.Aims{
+    width: 450px;
+    height: 50px;
+    
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.courses{
+    display: flex;
+    justify-content: center;
+}
+.P{
+    
+
+    width: 450px;
+    height: 50px;
+    border:2px solid red;
+    color: red;
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.m{
+    width: 450px;
+    height: 50px;
+    border:2px solid red;
+    color: red;
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.B{
+    width: 450px;
+    height: 50px;
+    border:2px solid red;
+    color: red;
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.c{
+    width: 450px;
+    height: 50px;
+    border:2px solid red;
+    color: red;
+    text-align: center;
+padding-top: 20px;
+margin: 20px;
+
+}
+.form{
+    align-content: end;
+}
